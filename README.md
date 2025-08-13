@@ -1,3 +1,7 @@
-If vs Ternario: Código que compara cuál de los 3 números es mayor, a la par que compara la eficiencia del operador Ternario vs el If/Else If y Else, donde claramente el If gana por cuestion de poca diferencia.
+# 📊 If vs Ternario / If vs Ternary
 
-If vs Ternary: Code that compares which of the 3 numbers is the largest, while also measuring the efficiency of the Ternary operator vs If/Else If and Else, where the If statement clearly wins, although by a very small margin.
+## 🇪🇸 Descripción (Español)
+Código que compara cuál de los **tres números** es mayor, al mismo tiempo que evalúa la **eficiencia** del operador **Ternario** frente a las estructuras **If / Else If / Else**, demostrando que, aunque la diferencia es mínima, el **If** obtiene un rendimiento ligeramente superior.
+
+## 🇬🇧 Description (English)
+Code that determines which of the **three numbers** is the largest, while also measuring the **efficiency** of the **Ternary** operator compared to **If / Else If / Else** statements, showing that, although the difference is minimal, the **If** statement achieves slightly better performance.
